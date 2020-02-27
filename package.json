@@ -7,7 +7,7 @@
     "serve": "^11.3.0"
   },
   "scripts": {
-    "startFront": "cd frontend && yarn start",
+    "startFront": "cd reactApp && yarn start",
     "startBack": "cd backend && node app.js"
     
   }
