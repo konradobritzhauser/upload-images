@@ -11,7 +11,7 @@ In a terminal type the following commands
 ### Back-end
 In another terminal type the following commands
 
-1. Please overwrite given security file in upload-images/backend/ directory
+1. Please overwrite given security credentials in upload-images/backend/awsOP.js
 2. cd backend
 3. yarn
 4. yarn start
